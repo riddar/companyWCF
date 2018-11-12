@@ -1,0 +1,16 @@
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\Company.DataAccess.dll.config
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\Company.DataAccess.dll
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\Company.DataAccess.pdb
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\Company.Models.dll
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\EntityFramework.dll
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\Company.Models.pdb
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\EntityFramework.xml
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.CoreCompileInputs.cache
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.CopyComplete
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\obj\Debug\Company.DataAccess.dll
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\obj\Debug\Company.DataAccess.pdb
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\obj\Debug\Company.DataAccess.Migrations.Init.resources
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.GenerateResource.cache
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.DataAccess\obj\Debug\Company.DataAccess.csprojAssemblyReference.cache

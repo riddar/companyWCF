@@ -1,0 +1,5 @@
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.Models\bin\Debug\Company.Models.dll
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.Models\bin\Debug\Company.Models.pdb
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.Models\obj\Debug\Company.Models.csproj.CoreCompileInputs.cache
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.Models\obj\Debug\Company.Models.dll
+F:\IT högskolan\WindowsApplications\Labb2\Company\Company.Models\obj\Debug\Company.Models.pdb
