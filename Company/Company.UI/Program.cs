@@ -67,7 +67,7 @@ namespace Company.UI
 				Employee employee = context.CreateEmployee(new Employee() { Name = name, Salary = salary });
 				Console.WriteLine($"{employee.Name}, {employee.Salary}");
 			}
-			Console.ReadKey();
+
 			Menu();
 		}
 
@@ -78,7 +78,7 @@ namespace Company.UI
 				var employees = context.GetEmployees();
 				foreach (var employee in employees)
 				{
-					Console.WriteLine($"{employee.Name}, {employee.Salary}");
+					Console.WriteLine($"{employee.Id}, {employee.Name}, {employee.Salary}");
 				}
 			}
 			Console.ReadKey();
@@ -100,7 +100,6 @@ namespace Company.UI
 				if (employee == null)
 					Console.WriteLine("couldnt find employee");
 			}
-			Console.ReadKey();
 			Menu();
 		}
 
@@ -118,7 +117,6 @@ namespace Company.UI
 				else
 					context.RemoveEmployee(employee);
 			}
-			Console.ReadKey();
 			Menu();
 		}
 	}

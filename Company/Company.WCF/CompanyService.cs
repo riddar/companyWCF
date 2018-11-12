@@ -36,7 +36,9 @@ namespace Company.WCF
 
 		public void RemoveEmployee(Employee employee)
 		{
-			context.Employees.Remove(employee);
+			var result = context.Employees.FirstOrDefault(e => e.Id == employee.Id);
+
+			context.Employees.Remove(result);
 			context.SaveChanges();
 		}
 
@@ -47,10 +49,10 @@ namespace Company.WCF
 			if (result == null)
 				return null;
 
-			result.Name = employee.Name;
-			result.Salary = employee.Salary;
+			context.Entry(result).CurrentValues.SetValues(employee);
+			context.SaveChanges();
 
-			return result;
+			return employee;
 		}
 
 

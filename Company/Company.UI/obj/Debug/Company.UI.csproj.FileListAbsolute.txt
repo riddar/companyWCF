@@ -25,7 +25,6 @@ F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\bin\Deb
 F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\bin\Debug\Company.DataAccess.dll.config
 F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\bin\Debug\Company.Models.pdb
 F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\bin\Debug\EntityFramework.xml
-F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\obj\Debug\Company.UI.csprojAssemblyReference.cache
 F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\obj\Debug\Company.UI.csproj.CoreCompileInputs.cache
 F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\obj\Debug\Company.UI.csproj.CopyComplete
 F:\IT högskolan\WindowsApplications\Labb2\CompanyWCF\Company\Company.UI\obj\Debug\Company.UI.exe
