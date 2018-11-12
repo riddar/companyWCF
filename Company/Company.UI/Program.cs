@@ -41,7 +41,7 @@ namespace Company.UI
 							ChangeEmployee();
 							break;
 						case ConsoleKey.D4:
-
+							RemoveEmployee();
 							break;
 						case ConsoleKey.D5:
 							KeepGoing = false;
@@ -108,10 +108,15 @@ namespace Company.UI
 		{
 			Console.Write("What is the Id: ");
 			int id = int.Parse(Console.ReadLine());
+
 			using (var context = new CompanyServiceClient())
 			{
 				Employee employee = context.GetEmployeeById(id);
-				context.RemoveEmployee(employee);
+
+				if(employee == null)
+					Console.WriteLine("couldnt find employee");
+				else
+					context.RemoveEmployee(employee);
 			}
 			Console.ReadKey();
 			Menu();
